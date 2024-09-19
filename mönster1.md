@@ -40,7 +40,7 @@ För att hantera problemet och öka tillgängligheten införs en mellanlagring m
 ```
 
 ### Illustration (Archimate)
-NOT AVAILABLE
+![image](https://github.com/user-attachments/assets/43e8d698-1665-4b3d-8d7a-ac4216701656)
 
 ## Referenser
 Beslut https://dev.azure.com/afaforsakring2/IT%20Portalen/_wiki/wikis/IT-Portalen.wiki/8730/2022-10-12-L%C3%B6sningsm%C3%B6nster-med-asynkron-k%C3%B6hantering-f%C3%B6r-mer-robust-och-tillg%C3%A4nglig-tj%C3%A4nst
