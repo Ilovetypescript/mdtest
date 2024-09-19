@@ -30,7 +30,7 @@ För att hantera problemet och öka tillgängligheten införs en mellanlagring m
  graph  LR
     Q(konsument) --> A
     A[REST API] -->|Claim Check| B[Azure Service Bus Kö]
-    A -->|HTTP202+referens| Q
+    A -->|HTTP 202 + referens| Q
     A -->|Claim Check| C[Storage ex. FileShare]
     B --> D[Backend-tjänst]
     C --> D[Backend-tjänst]
